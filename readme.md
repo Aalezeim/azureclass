@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
+<p align="center"> HOLAAAAA Aqui dejo mi link :) https://icy-cliff-01bcce710.azurestaticapps.net/.
     <br> 
 </p>
 
